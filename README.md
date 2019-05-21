@@ -1,9 +1,7 @@
 # Required-reading-in-Python-Class
 This only contains a readme.md file with a list of required redings for examns
 
-This is written from a list via a update_readme function
-
-Also under here is the first test of the link list of required reading - only a few repos is tested
+Filtering added
 ## REquired reading
 * [3. An Informal Introduction to Python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
 * [3.1. Using Python as a Calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
